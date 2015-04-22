@@ -1,0 +1,3 @@
+[submodule "tests/steps/common_steps"]
+	path = tests/steps/common_steps
+	url = git@github.com:Containers-Testing-Framework/common-steps.git
