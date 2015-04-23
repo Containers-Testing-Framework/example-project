@@ -3,7 +3,7 @@ from behave import then
 import subprocess
 from time import sleep
 import logging
-from common_steps import common_docker_steps, common_connection_steps
+#from common_steps import common_docker_steps, common_connection_steps
 
 
 @then(u'ssh connection can be established')
